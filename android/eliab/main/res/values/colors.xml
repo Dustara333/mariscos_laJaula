@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#639FF0</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="iciblue">#a1c5f6</color>
+    <color name="lorange"> #e29a86</color>
+    <color name="black"> #000</color>
+    <color name="blue">#0080FF</color>
+    <color name="ora">#ff7f00</color>
+
+
+</resources>

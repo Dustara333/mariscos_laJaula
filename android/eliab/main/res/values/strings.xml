@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mariscos ""La Jaula""</string>
+    <string name="name"> \t Nombre:</string>
+    <string name="date"> \t Fecha:</string>
+    <string name="hour"> \t Hora:</string>
+    <string name="btn_return">Atras</string>
+    <string name="btn_reser">Reservar</string>
+</resources>
