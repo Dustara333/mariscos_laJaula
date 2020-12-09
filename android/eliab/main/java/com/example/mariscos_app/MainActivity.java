@@ -14,7 +14,7 @@ import com.synnapps.carouselview.ImageListener;
 
 public class MainActivity extends AppCompatActivity {
     CarouselView carouselView;
-    int[] sampleImages = {R.drawable.food, R.drawable.instalacion, R.drawable.contact};
+    int[] sampleImages = {R.drawable.lajaula, R.drawable.espagueti, R.drawable.tostada};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

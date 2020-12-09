@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/blue"
+    android:background="@drawable/wood"
     android:gravity="center"
     android:orientation="vertical"
     tools:context=".reservation_Activity">
@@ -119,12 +119,12 @@
 
     <ImageView
         android:id="@+id/imageView8"
-        android:layout_width="277dp"
-        android:layout_height="145dp"
+        android:layout_width="423dp"
+        android:layout_height="186dp"
         android:contentDescription="TODO"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/logotest" />
+        app:srcCompat="@drawable/reserva" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

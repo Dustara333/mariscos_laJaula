@@ -7,11 +7,11 @@
     tools:context=".MainActivity"
     android:gravity="center"
     android:orientation="vertical"
-    android:background="@color/lorange">
+    android:background="@drawable/wood">
     <com.synnapps.carouselview.CarouselView
         android:id="@+id/carouselView"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="220dp"
         card_view:fillColor="#FFFFFFFF"
         card_view:pageColor="#00000000"
         card_view:radius="6dp"
@@ -38,7 +38,7 @@
             android:layout_height="match_parent"
             android:layout_width="match_parent"
 
-            android:src="@drawable/food"
+            android:background="@drawable/menu"
             android:onClick="MSG"/>
     </androidx.cardview.widget.CardView>
     <androidx.cardview.widget.CardView
@@ -57,7 +57,7 @@
             android:layout_height="match_parent"
             android:layout_width="match_parent"
 
-            android:background="@drawable/instalacion"
+            android:background="@drawable/conocenos"
             android:onClick="MSG"/>
     </androidx.cardview.widget.CardView>
     <androidx.cardview.widget.CardView
@@ -93,7 +93,7 @@
         <ImageButton
             android:layout_height="match_parent"
             android:layout_width="match_parent"
-            android:background="@drawable/reservation"
+            android:background="@drawable/reservabtn"
             android:onClick="ToRESERVATION"/>
     </androidx.cardview.widget.CardView>
 </LinearLayout>
