@@ -1,10 +1,48 @@
 <resources>
-    <string name="app_name">MapaJaula</string>
-    <string name="btnmaps">Direccion en Google Maps.</string>
-    <string name="tv1">Direccion de Sucursal</string>
-    <string name="tv2">Blvd. Guanajuato 33a, Barrio de la Presa, Guanajuato, Gto.</string>
-    <string name="tv3">Visite nuestra sucursal.</string>
-    <string name="tv4">Teléfono.</string>
-    <string name="tv5">7340180</string>
-    <string name="title_activity_maps1">Map</string>
+    <string name="app_name">MenuRestauranteJ</string>
+    <string name="text1">Menu de Restaurante</string>
+    <string name="btn1">Camarones Empanizados</string>
+    <string name="btn2">Pescado Empanizado</string>
+    <string name="btn3">Salmon Ahumado.</string>
+    <string name="btn4">Coctel Camarones</string>
+    <string name="img">sa</string>
+    <string name="ingCoc">     Agua hirviendo (la necesaria)
+    500 g R camarones crudos
+    2 Cucharadas cebolla morada picada
+    1 Diente de ajo (pelado)
+    Limones (para servir)
+    ½ pepino (en cubitos (¾ taza))
+    Sal y pimienta (al gusto)
+    ½ taza clamato (jugo de tomate con almeja)
+    1 Tomate rojo (picado (¾ taza))
+    1 Trozo de cebolla blanca</string>
+    <string name="desCoc">Coctel de Camarones proviene de la cocina internacional camarones. El cóctel de gambas es un plato frío preparado con gambas o camarones hervidos y pelados acompañado usualmente de especias y jugo de limón. </string>
+    <string name="ingS">
+    1 lomo de salmón por persona
+    1 pimiento rojo
+    1 cebolla
+    Salsa de soja
+    Miel
+    Jengibre fresco
+    Aceite de sésamo
+    Sal
+</string>
+    <string name="descS">El salmón al horno es una de las mejores formas de preparar el salmón. Es uno de mis pescados preferidos y normalmente lo hago a la plancha aunque a veces al horno con unas verduritas queda genial.
+
+El salmón permite una infinidad de recetas con él, siempre lo hemos tomado a la plancha o al horno pero ahora podemos encontrar en muchos sitios tartar de salmón y la verdad que cada vez me gusta más.</string>
+    <string name="descCam">Platillo hecho con camarones pelados, pasados por jugo de limón, harina, huevo y pan molido y, posteriormente, fritos.</string>
+    <string name="ing">Ingredientes.</string>
+    <string name="ingF">1/2 Taza Pan molido
+4 Piezas Pescado filetes
+1 Pieza Huevo ligeramente batido
+3 Cucharadas Aceite de maíz
+4 Cucharadas NESTEA® Té negro sabor a limón </string>
+    <string name="ingCam">• Camarones
+• Panko (es un tipo de empanizador)
+• Harina
+• 2 huevos
+• Aceite
+• Sal
+• pimienta</string>
+    <string name="descF">Preparación de filete de pescado pasado por huevo, empanizado con pan molido y frito. Se sirve con una ensalada sencilla o puré de papa. El comensal añade jugo de limón y sal al gusto. Es una de las formas más comunes de comer el pescado en México, por lo que se prepara en casas, fondas y restaurantes. El filete puede ser de cualquier tipo de pescado, según la preferencia y el poder adquisitivo</string>
 </resources>
