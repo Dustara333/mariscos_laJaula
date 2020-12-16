@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MapaJaula</string>
+    <string name="btnmaps">Direccion en Google Maps.</string>
+    <string name="tv1">Direccion de Sucursal</string>
+    <string name="tv2">Blvd. Guanajuato 33a, Barrio de la Presa, Guanajuato, Gto.</string>
+    <string name="tv3">Visite nuestra sucursal.</string>
+    <string name="tv4">Teléfono.</string>
+    <string name="tv5">7340180</string>
+    <string name="title_activity_maps1">Map</string>
+</resources>
