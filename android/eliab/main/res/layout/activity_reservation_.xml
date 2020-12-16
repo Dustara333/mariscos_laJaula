@@ -11,6 +11,7 @@
 
     <EditText
         android:id="@+id/Nombre"
+        android:textAlignment="center"
         style="@style/et_reservation"
         android:hint="@string/name"
         app:layout_constraintEnd_toEndOf="parent"
@@ -79,11 +80,13 @@
         android:layout_marginTop="12dp"
         android:layout_marginEnd="72dp"
         android:text="@string/btn_reser"
+        android:onClick="insertar"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/spPeople" />
 
     <EditText
         android:id="@+id/etFecha"
+        android:textAlignment="center"
         style="@style/et_reservation"
         android:clickable="true"
         android:focusable="false"
